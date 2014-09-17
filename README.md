@@ -27,6 +27,9 @@ Delete! - it too, will be in parallel.
 
 `C-w`, `C-y`, etc - you get the point.
 
+## Customize
+`M-x customize` - search for "rect-select". Customize away.
+
 ## Contribute
 Start by forking the repo on GitHub:
 
