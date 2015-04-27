@@ -4,10 +4,10 @@ rect-select
 Rectangle selection and editing operations for Emacs. Akin to Vim's "Visual-Block Mode".
 
 ## Motivation
-* Fucking "typing in parallel"... for the win.
+* "Typing in parallel" - for the win.
 * Delete in parallel too, while you're at it.
-* Copy and paste in parallel, too?!
-* I didn't know CUA-mode had a rectangle-mark mode. Have you seen the source-code for it, though? Mine is much cleaner and more concise.
+* Copy and paste in parallel...
+* This was made before Emacs v24.4, which ended up adopting CUA-mode's rectangle-mark mode.
 
 ## Installation
 1. Place `rect-select.el` in your home directory, or any other directory on your Emacs load-path. To extend your load-path, add `(add-to-list 'load-path "path/to/rect-select.el")` to your .emacs file.
