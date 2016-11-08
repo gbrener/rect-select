@@ -4,6 +4,7 @@ rect-select
 Rectangle selection and editing operations for Emacs. Akin to Vim's "Visual-Block Mode". This was written before Emacs v24.4, which ended up adopting CUA-mode's rectangle-mark mode.
 
 ## Motivation
+* Marking a rectangular region visually before operating on it
 * Typing in parallel
 * Deleting in parallel
 * Copying and pasting in parallel
